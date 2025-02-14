@@ -20,3 +20,10 @@ Many beginners on **Facebook forums and other online communities** often ask for
 - This model currently works with identifying Flathead, Aussie Salmon and Kingfish (more to come)
 - Training was done on Google Colab
 - My annotations were done on RoboFlow (https://app.roboflow.com/fishnet-79l5t/fishnet-7l4ug/11)
+
+## 📊 Results  
+Here’s an example of the fish detection model in action:  
+
+![Fish Detection Example 1](examples/kingfish_test.jpg)
+![Fish Detection Example 1](examples/flathead_test.jpg)
+
