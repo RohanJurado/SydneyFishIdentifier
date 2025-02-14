@@ -19,3 +19,4 @@ Many beginners on **Facebook forums and other online communities** often ask for
 ## Notes
 - This model currently works with identifying Flathead, Aussie Salmon and Kingfish (more to come)
 - Training was done on Google Colab
+- My annotations were done on RoboFlow (https://app.roboflow.com/fishnet-79l5t/fishnet-7l4ug/11)
