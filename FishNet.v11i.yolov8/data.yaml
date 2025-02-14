@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Australian Salmon', 'Flathead', 'Kingfish']
+
+roboflow:
+  workspace: fishnet-79l5t
+  project: fishnet-7l4ug
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fishnet-79l5t/fishnet-7l4ug/dataset/11
